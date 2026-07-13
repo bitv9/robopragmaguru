@@ -1,0 +1,49 @@
+**src/data/categories.json**
+
+[
+{
+"id": 1,
+"name": "Technology",
+"slug": "technology",
+"description": "Latest technology news, tutorials, and reviews.",
+"icon": "cpu",
+"color": "#2563eb",
+"postCount": 8
+},
+{
+"id": 2,
+"name": "Programming",
+"slug": "programming",
+"description": "Programming articles and coding tutorials.",
+"icon": "code",
+"color": "#10b981",
+"postCount": 12
+},
+{
+"id": 3,
+"name": "Web Design",
+"slug": "web-design",
+"description": "UI, UX, HTML, CSS and frontend inspiration.",
+"icon": "layout",
+"color": "#f59e0b",
+"postCount": 6
+},
+{
+"id": 4,
+"name": "Tutorial",
+"slug": "tutorial",
+"description": "Step-by-step guides for beginners and professionals.",
+"icon": "book-open",
+"color": "#ef4444",
+"postCount": 15
+},
+{
+"id": 5,
+"name": "Lifestyle",
+"slug": "lifestyle",
+"description": "Daily tips, productivity, and inspiration.",
+"icon": "heart",
+"color": "#8b5cf6",
+"postCount": 5
+}
+]
