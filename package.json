@@ -1,0 +1,30 @@
+{
+  "name": "astro-blogger-converted",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Converted Blogger Template to Astro Static Site",
+  "author": "ChatGPT",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check",
+    "format": "prettier --write .",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "astro": "^5.13.5"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.4",
+    "eslint": "^9.31.0",
+    "prettier": "^3.6.2",
+    "typescript": "^5.8.3"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
