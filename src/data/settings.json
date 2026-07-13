@@ -1,5 +1,3 @@
-src/data/settings.json
-
 { "site": { "name": "Astro Blogger", "title": "Astro Blogger - Modern Static Blog", "description": "A modern static blog converted from Blogger template to Astro.", "url": "https://example.com"
 , "language": "id-ID", "timezone": "Asia/Jakarta", "email": "admin@example.com", "phone": "+62 812-3456-7890", "address": "Banjar, Jawa Barat, Indonesia", "favicon": "/favicon.ico", "logo": "/images/logo.png", "cover": "/images/cover.jpg" },
 
